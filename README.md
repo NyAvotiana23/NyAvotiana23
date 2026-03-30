@@ -1,13 +1,6 @@
 <div align="center">
 
-```
-██████╗  █████╗ ██╗  ██╗ ██████╗ ████████╗ ██████╗ ███╗   ██╗██████╗ ██████╗  █████╗
-██╔══██╗██╔══██╗██║ ██╔╝██╔═══██╗╚══██╔══╝██╔═══██╗████╗  ██║██╔══██╗██╔══██╗██╔══██╗
-██████╔╝███████║█████╔╝ ██║   ██║   ██║   ██║   ██║██╔██╗ ██║██║  ██║██████╔╝███████║
-██╔══██╗██╔══██║██╔═██╗ ██║   ██║   ██║   ██║   ██║██║╚██╗██║██║  ██║██╔══██╗██╔══██║
-██║  ██║██║  ██║██║  ██╗╚██████╔╝   ██║   ╚██████╔╝██║ ╚████║██████╔╝██║  ██║██║  ██║
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝   ╚═╝    ╚═════╝ ╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
-```
+    # RAKOTONDRAMANANA
 
 ### Ny Avotiana Joanël · Fullstack Web Developer · 🇲🇬 Madagascar
 
@@ -59,17 +52,6 @@ public class NyAvotianaJoanël extends FullstackDeveloper {
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joanelrak01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=f78166)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joanelrak01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-
-</div>
 
 ---
 
@@ -103,10 +85,3 @@ public class NyAvotianaJoanël extends FullstackDeveloper {
 
 </div>
 
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=joanelrak01&style=flat-square&color=58a6ff" alt="Profile Views"/>
-  
-  *Made with ❤️ from Madagascar 🇲🇬*
-</div>
