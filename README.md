@@ -1,8 +1,6 @@
 <div align="center">
 
-    # RAKOTONDRAMANANA
-
-### Ny Avotiana Joanël · Fullstack Web Developer · 🇲🇬 Madagascar
+## RAKOTONDRAMANANA Ny Avotiana Joanël · Fullstack Web Developer · 🇲🇬 Madagascar
 
 [![Email](https://img.shields.io/badge/Email-joanelrak01%40gmail.com-informational?style=flat-square&logo=gmail&logoColor=white&color=EA4335)](mailto:joanelrak01@gmail.com)
 [![Location](https://img.shields.io/badge/Based_in-Antananarivo%2C_Madagascar-success?style=flat-square)](https://en.wikipedia.org/wiki/Antananarivo)
