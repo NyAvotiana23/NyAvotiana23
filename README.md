@@ -79,7 +79,7 @@ public class NyAvotianaJoanël extends FullstackDeveloper {
 
 **Let's build something great together.**
 
-[![Email Me](https://img.shields.io/badge/📧_Send_an_email-joanelrak01%40gmail.com-blue?style=for-the-badge)](mailto:joanelrak01@gmail.com)
+[![Email Me](https://img.shields.io/badge/📧_Send_an_email-joanelrak01%40gmail.com-blue?style=for-the-badge)](mailto:joanelrakotondramanana@gmail.com)
 
 </div>
 
